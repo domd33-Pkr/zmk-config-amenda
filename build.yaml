@@ -19,4 +19,5 @@
 #
 ---
 include:
-  - board: ferris_rev02
+  - board: nice_nano_v1
+    shield: amenda

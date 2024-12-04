@@ -1,0 +1,6 @@
+if SHIELD_AMENDA
+
+config ZMK_KEYBOARD_AMENDA
+    default "amenda"
+
+endif
